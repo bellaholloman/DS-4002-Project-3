@@ -7,7 +7,7 @@ Hierarchy of folders and subfolders contained in the Project Folder, and listing
 
 | Folder              | Files |
 | :---------------- | :------ |
-| **DATA**              | [dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset/data) |
+| **DATA**              | [dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset/data) , Data Appendix 3.pdf|
 | **SCRIPTS**           |  insert   |
 | **OUTPUT**            |  image_count|
 | **REFERENCES**        |  References  |
