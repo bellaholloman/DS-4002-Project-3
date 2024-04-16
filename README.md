@@ -10,7 +10,7 @@ Hierarchy of folders and subfolders contained in the Project Folder, and listing
 | **DATA**              | insert |
 | **SCRIPTS**           |  insert   |
 | **OUTPUT**            |  insert|
-| **REFERENCES**        |  insert  |
+| **REFERENCES**        |  References  |
 
 
 ## Section 3: Instructions for reproducing your results. 
