@@ -16,4 +16,5 @@ Hierarchy of folders and subfolders contained in the Project Folder, and listing
 ## Section 3: Instructions for reproducing your results. 
 1. Download dataset from Kaggle
 2. Split into test and train folders (we achieved this by simply copying and pasting the desired split (70/30) into new folders (train and test) from the with_mask and without_mask folders.
-3. Run 'MASTER CODE FILE NAME' to complete analysis.
+3. Install necessary packages.
+4. Run 'MASTER CODE FILE NAME' to complete analysis.
