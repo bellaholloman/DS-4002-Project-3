@@ -8,8 +8,8 @@ Hierarchy of folders and subfolders contained in the Project Folder, and listing
 | Folder              | Files |
 | :---------------- | :------ |
 | **DATA**              | [dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset/data) , Data Appendix 3.pdf|
-| **SCRIPTS**           |  insert   |
-| **OUTPUT**            |  image_count.png|
+| **SCRIPTS**           |  EDA_mask.ipynb, Master_Script.ipynb, knn_model.ipynb, tf_and_keras_model.ipynb   |
+| **OUTPUT**            |  Accuracy_blue_and_lossvalue_orange_over_epochs.png, Epoch_1.png, Epoch_15.png, image_count.png, mask_off_test_image.png, mask_on_test_image.png, test_metric_score_vs_training_set_size.png, training_images_as_Xstack.png|
 | **REFERENCES**        |  References  |
 
 
